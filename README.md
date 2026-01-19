@@ -1,9 +1,9 @@
 # European hail days from XGBoost and HAILCAST  
-### Figure-generation code for Nature Climate Change
+### Figure-generation code for Nature Communication
 
 This repository contains the Python scripts used to generate all figures
-presented in the manuscript submitted to Nature Climate Change:
-"Divergent European hail projections from machine-learning and physically based models under global warming"
+presented in the manuscript submitted to Nature Communications:
+"Divergent European hail projections from machine learning and physically based models under global warming"
 which analyses European hail occurrence derived from a physically based HAILCAST model coupled to convection-permitting climate simulations and
 a machine-learning model (XGBoost) applied to the same simulations.
 
