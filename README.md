@@ -2,7 +2,7 @@
 ### Figure-generation code for Nature Communication
 
 This repository contains the Python scripts used to generate all figures
-presented in the manuscript submitted to Nature Communications:
+presented in the manuscript submitted to npj Climate and Atmospheric Science:
 "Divergent European hail projections from machine learning and physically based models under global warming"
 which analyses European hail occurrence derived from a physically based HAILCAST model coupled to convection-permitting climate simulations and
 a machine-learning model (XGBoost) applied to the same simulations.
