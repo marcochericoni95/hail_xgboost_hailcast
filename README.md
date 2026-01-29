@@ -1,8 +1,8 @@
 # European hail days from XGBoost and HAILCAST  
-### Figure-generation code for Nature Communication
+### Figure-generation code for npj Natural Hazards
 
 This repository contains the Python scripts used to generate all figures
-presented in the manuscript submitted to npj Climate and Atmospheric Science:
+presented in the manuscript submitted to npj Natural Hazards:
 "Divergent European hail projections from machine learning and physically based models under global warming"
 which analyses European hail occurrence derived from a physically based HAILCAST model coupled to convection-permitting climate simulations and
 a machine-learning model (XGBoost) applied to the same simulations.
